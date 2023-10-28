@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QdoDpkynYew+Adxp4gTXd8BCAkf6Ouri+DXvjFVsMfg=",
+  "Source": "ApiAddressSearchBackEnd",
+  "BasePath": "_content/ApiAddressSearchBackEnd",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
